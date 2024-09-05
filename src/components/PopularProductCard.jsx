@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { star } from '../assets/icons';
 
 const PopularProductCard = ({ imgURL, name, price }) => {

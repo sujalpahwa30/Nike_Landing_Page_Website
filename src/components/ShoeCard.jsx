@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const ShoeCard = ({ imgURL, changeBigShoeImg, bigShoeImg }) => {
     const handleClick = () => {
         if (bigShoeImg !== imgURL.bigShoe) {
